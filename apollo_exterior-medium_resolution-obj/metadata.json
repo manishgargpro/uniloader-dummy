@@ -1,0 +1,23 @@
+{
+  "pin": "017290",
+  "models": [
+    {
+      "name": "exterior shell",
+      "caption": "",
+      "files": [
+        "apollo_exterior-shell-master.mtl",
+        "x3d-cm-exterior-shell-90k-comp-4k.tif",
+        "x3d-cm-exterior-shell-90k-uvs.obj"
+      ]
+    },
+    {
+      "name": "exterior top",
+      "caption": "",
+      "files": [
+        "apollo_exterior-top-master.mtl",
+        "x3d-cm-exterior-top-160k-comp-4k.tif",
+        "x3d-cm-exterior-top-160k-uvs.obj"
+      ]
+    }
+  ]
+}
